@@ -1,0 +1,1324 @@
+Uri: http://content-ext.undp.org/aplaws_publications/1769217/SEA and Adaptation to CC full version.pdf
+File Name: C:\tools\web\ses.ddev.site\aplaws_publications\1769217\SEA and Adaptation to CC full version.pdf
+Content Type: application/pdf
+
+Uri: http://content-ext.undp.org/aplaws_publications/1769813/Strategic Environment Assessment and Ecosystem Service full version.pdf
+File Name: C:\tools\web\ses.ddev.site\aplaws_publications\1769813\Strategic Environment Assessment and Ecosystem Service full version.pdf
+Content Type: application/pdf
+
+Uri: http://content-ext.undp.org/aplaws_publications/1769941/SEA and Disaster Risk Reduction full version.pdf
+File Name: C:\tools\web\ses.ddev.site\aplaws_publications\1769941\SEA and Disaster Risk Reduction full version.pdf
+Content Type: application/pdf
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.1/images/arrow-blue.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.1\images\arrow-blue.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.1/images/arrow-left-expand-defaut.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.1\images\arrow-left-expand-defaut.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.1/images/chevron-right-black.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.1\images\chevron-right-black.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.1/images/globe.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.1\images\globe.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.1/images/language.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.1\images\language.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.1/images/search.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.1\images\search.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/css/base-minimal.min.css
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\css\base-minimal.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/css/components.min.css
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\css\components.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/css/templates.min.css
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\css\templates.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/proximanova-black-webfont.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\proximanova-black-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/proximanova-blackit-webfont.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\proximanova-blackit-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/proximanova-bold-webfont.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\proximanova-bold-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/proximanova-boldit-webfont.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\proximanova-boldit-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/proximanova-extrabold-webfont.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\proximanova-extrabold-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/proximanova-extraboldit-webfont.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\proximanova-extraboldit-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/proximanova-light-webfont.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\proximanova-light-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/proximanova-lightit-webfont.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\proximanova-lightit-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/proximanova-medium-webfont.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\proximanova-medium-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/proximanova-mediumit-webfont.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\proximanova-mediumit-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/proximanova-regular-webfont.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\proximanova-regular-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/proximanova-regularit-webfont.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\proximanova-regularit-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/proximanova-semibold-webfont-2.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\proximanova-semibold-webfont-2.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/proximanova-semiboldit-webfont-2.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\proximanova-semiboldit-webfont-2.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/proximanova-thin-webfont.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\proximanova-thin-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/proximanova-thinit-webfont.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\proximanova-thinit-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/soehne-breit-web-dreiviertelfett-kursiv.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\soehne-breit-web-dreiviertelfett-kursiv.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/soehne-breit-web-dreiviertelfett.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\soehne-breit-web-dreiviertelfett.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/soehne-breit-web-fett-kursiv.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\soehne-breit-web-fett-kursiv.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/soehne-breit-web-fett.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\soehne-breit-web-fett.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/UNBangla-Bold.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\UNBangla-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/UNBangla-BoldItalic.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\UNBangla-BoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/UNBangla-Italic.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\UNBangla-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/UNBangla-Regular.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\UNBangla-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/UNBangla-Thin.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\UNBangla-Thin.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/fonts/UNBangla-ThinItalic.woff2
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\fonts\UNBangla-ThinItalic.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/arrow-blue.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\arrow-blue.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/arrow-left-expand-defaut.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\arrow-left-expand-defaut.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/arrow-left-white.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\arrow-left-white.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/arrow-left.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/arrow-right-white.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\arrow-right-white.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/arrow-right.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/arrow-white-down.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\arrow-white-down.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/calender-black.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\calender-black.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/checkmark-regular.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\checkmark-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/checkmark-small.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\checkmark-small.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/chevron-down-white.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\chevron-down-white.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/chevron-down.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\chevron-down.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/chevron-left-circle.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\chevron-left-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/chevron-left-white.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\chevron-left-white.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/chevron-left.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\chevron-left.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/chevron-right-black.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\chevron-right-black.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/chevron-right-circle.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\chevron-right-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/chevron-right-white.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\chevron-right-white.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/chevron-right.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\chevron-right.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/chevron-small-down.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\chevron-small-down.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/chevron-small-right.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\chevron-small-right.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/date-disabled.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\date-disabled.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/disabled-checkmark-regular.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\disabled-checkmark-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/disabled-checkmark-small.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\disabled-checkmark-small.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/disabled-x-regular.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\disabled-x-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/disabled-x-small.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\disabled-x-small.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/facebook-white.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\facebook-white.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/facebook.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/globe.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\globe.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/icon-check.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\icon-check.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/instagram-white.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\instagram-white.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/instagram.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/language-white.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\language-white.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/language.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\language.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/linkedin-white.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\linkedin-white.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/linkedin.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\linkedin.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/search-black.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\search-black.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/search-gray.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\search-gray.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/search.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\search.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/threads-white.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\threads-white.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/threads.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\threads.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/times-circle.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\times-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/times-red.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\times-red.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/times.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\times.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/tweet-white.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\tweet-white.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/twitter-x-white.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\twitter-x-white.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/twitter-x.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\twitter-x.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/youtube-white.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\youtube-white.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/images/youtube.svg
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\images\youtube.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/js/all.min.js
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\js\all.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/@undp/design-system-assets@2.0.2/js/init.js
+File Name: C:\tools\web\ses.ddev.site\npm\@undp\design-system-assets@2.0.2\js\init.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/glightbox@3.3.1/dist/js/glightbox.min.js
+File Name: C:\tools\web\ses.ddev.site\npm\glightbox@3.3.1\dist\js\glightbox.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/swiper@14/swiper-bundle.min.js
+File Name: C:\tools\web\ses.ddev.site\npm\swiper@14\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://gbvguidelines.org/wp/wp-content/uploads/2015/09/2015-IASC-Gender-based-Violence-Guidelines_lo-res.pdf
+File Name: C:\tools\web\ses.ddev.site\wp\wp-content\uploads\2015\09\2015-IASC-Gender-based-Violence-Guidelines_lo-res.pdf
+Content Type: application/pdf
+
+Uri: https://portals.iucn.org/library/sites/library/files/documents/2016-036.pdf
+File Name: C:\tools\web\ses.ddev.site\library\sites\library\files\documents\2016-036.pdf
+Content Type: application/pdf
+
+Uri: https://portals.iucn.org/library/sites/library/files/documents/CEM-003.pdf
+File Name: C:\tools\web\ses.ddev.site\library\sites\library\files\documents\CEM-003.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/2023-03/UNDP Social and Environmental Screening Procedure_JULY2022_ENGLISH.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\2023-03\UNDP Social and Environmental Screening Procedure_JULY2022_ENGLISH.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/2023-06/ToR - Project-level Grievance Redress Mechanism.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\2023-06\ToR - Project-level Grievance Redress Mechanism.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/2023-08/ToR - Project-level Grievance Redress Mechanism.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\2023-08\ToR - Project-level Grievance Redress Mechanism.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/2023-11/SES Supplemental Guidance FAQs on GBV Risk Management.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\2023-11\SES Supplemental Guidance FAQs on GBV Risk Management.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/2024-02/Draft Checklist for Implementing the SRM in a CO.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\2024-02\Draft Checklist for Implementing the SRM in a CO.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/2024-02/Sample SRM Complaint tracking form.xlsx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\2024-02\Sample SRM Complaint tracking form.xlsx
+Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/2024-02/Sample Terms of Reference - SRM at Country Office Level.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\2024-02\Sample Terms of Reference - SRM at Country Office Level.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/2025-02/undp-social-and-environmental-standards_2019-update_rev-2023.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\2025-02\undp-social-and-environmental-standards_2019-update_rev-2023.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/2025-05/undp-social-and-environmental-screening-procedure-template_july2022_french.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\2025-05\undp-social-and-environmental-screening-procedure-template_july2022_french.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/2025-05/undp-social-and-environmental-screening-procedure-template_july2022_spanish.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\2025-05\undp-social-and-environmental-screening-procedure-template_july2022_spanish.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/2025-05/undp_social_and_environmental_screening_procedure_template_july2022_english_0.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\2025-05\undp_social_and_environmental_screening_procedure_template_july2022_english_0.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Learning Materials/Labour Management Procedures Template.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Learning Materials\Labour Management Procedures Template.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Learning Materials/SESP Template_ENGLISH.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Learning Materials\SESP Template_ENGLISH.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Social and Environmental Standards/Elements of Biodiversity Action Plan.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Social and Environmental Standards\Elements of Biodiversity Action Plan.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Social and Environmental Standards/ESMF Template (UNDP GCF Projects).docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Social and Environmental Standards\ESMF Template (UNDP GCF Projects).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Social and Environmental Standards/Generic Terms of Reference for ESIA_ESMP.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Social and Environmental Standards\Generic Terms of Reference for ESIA_ESMP.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Social and Environmental Standards/Indicative Outline of an ESMF.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Social and Environmental Standards\Indicative Outline of an ESMF.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Social and Environmental Standards/Indicative Outline of an ESMP.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Social and Environmental Standards\Indicative Outline of an ESMP.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Social and Environmental Standards/Indicative Outline of ESIA Report.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Social and Environmental Standards\Indicative Outline of ESIA Report.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Social and Environmental Standards/Indigenous Peoples Plan Indicative Outline.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Social and Environmental Standards\Indigenous Peoples Plan Indicative Outline.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Social and Environmental Standards/Livelihood Action Plan - Template.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Social and Environmental Standards\Livelihood Action Plan - Template.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Social and Environmental Standards/Resettlement Action Plan - Template.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Social and Environmental Standards\Resettlement Action Plan - Template.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Social and Environmental Standards/Sample Terms of Reference - Project-level Grievance Redress Mechanism.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Social and Environmental Standards\Sample Terms of Reference - Project-level Grievance Redress Mechanism.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Social and Environmental Standards/SESP Guidance En update 2016.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Social and Environmental Standards\SESP Guidance En update 2016.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Social and Environmental Standards/SESP Template FRENCH.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Social and Environmental Standards\SESP Template FRENCH.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Social and Environmental Standards/SESP Template SPANISH.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Social and Environmental Standards\SESP Template SPANISH.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Social and Environmental Standards/SRM Guidance Note.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Social and Environmental Standards\SRM Guidance Note.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Social and Environmental Standards/Stakeholder Engagement Plan_2015 SES.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Social and Environmental Standards\Stakeholder Engagement Plan_2015 SES.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Social and Environmental Standards/Supplemental Guidance_Grievance Redress Mechanisms.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Social and Environmental Standards\Supplemental Guidance_Grievance Redress Mechanisms.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Social and Environmental Standards/UNDP SES Assessment and Management GN - Dec2016.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Social and Environmental Standards\UNDP SES Assessment and Management GN - Dec2016.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Social and Environmental Standards/UNDP SES Biodiversity Conservation and Sustainable NRM GN_Oct2017.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Social and Environmental Standards\UNDP SES Biodiversity Conservation and Sustainable NRM GN_Oct2017.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Social and Environmental Standards/UNDP SES Displacement and Resettlement GN_Dec2016.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Social and Environmental Standards\UNDP SES Displacement and Resettlement GN_Dec2016.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Social and Environmental Standards/UNDP SES Indigenous Peoples GN_Jan2017.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Social and Environmental Standards\UNDP SES Indigenous Peoples GN_Jan2017.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Social and Environmental Standards/UNDP SES Stakeholder Engagement GN_Oct2017.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Social and Environmental Standards\UNDP SES Stakeholder Engagement GN_Oct2017.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/Elements of Biodiversity Action Plan.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\Elements of Biodiversity Action Plan.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/Establishing the SRM in a CO.pptx?Web=1
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\Establishing the SRM in a CO.pptx
+Content Type: application/vnd.openxmlformats-officedocument.presentationml.presentation
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/Indicative Outline of an ESMF.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\Indicative Outline of an ESMF.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/Indicative Outline of an ESMP.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\Indicative Outline of an ESMP.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/Indicative Outline of ESIA Report.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\Indicative Outline of ESIA Report.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/Indicative Outline of Indigenous Peoples Planning Framework_DEC2020.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\Indicative Outline of Indigenous Peoples Planning Framework_DEC2020.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/Indicative Outline of Indigenous Peoples Plan_DEC2020.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\Indicative Outline of Indigenous Peoples Plan_DEC2020.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/Introduction to SECU.pptx?Web=1
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\Introduction to SECU.pptx
+Content Type: application/vnd.openxmlformats-officedocument.presentationml.presentation
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/Livelihood Action Plan Template.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\Livelihood Action Plan Template.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/Process Framework – Template.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\Process Framework – Template.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/Resettlement Action Plan Template.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\Resettlement Action Plan Template.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/Resettlement_Livelihood Action Framework – Template.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\Resettlement_Livelihood Action Framework – Template.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/Resources and Templates.docx
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\Resources and Templates.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/Responding to SRM Requests.pptx?Web=1
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\Responding to SRM Requests.pptx
+Content Type: application/vnd.openxmlformats-officedocument.presentationml.presentation
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/SES Policy and Screening Update - ECIS Technical Drop-in Call Presentation (DEC 2020).pptx?Web=1
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\SES Policy and Screening Update - ECIS Technical Drop-in Call Presentation (DEC 2020).pptx
+Content Type: application/vnd.openxmlformats-officedocument.presentationml.presentation
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/Stakeholder Response Mechanism - Overview and Guidance (Rev 9 June).pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\Stakeholder Response Mechanism - Overview and Guidance (Rev 9 June).pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/Supplemental Guidance on Disclosure of SESPs, Assessments, Management Plans_rev_5May2022.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\Supplemental Guidance on Disclosure of SESPs, Assessments, Management Plans_rev_5May2022.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/UNDP S3 CHSS_Targeted Guidance_17Oct2021.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\UNDP S3 CHSS_Targeted Guidance_17Oct2021.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/UNDP S4 Cultural Heritage_Targeted Guidance_17Oct2021.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\UNDP S4 Cultural Heritage_Targeted Guidance_17Oct2021.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/UNDP S8 PP-RE_Targeted Guidance_17Oct2021.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\UNDP S8 PP-RE_Targeted Guidance_17Oct2021.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/UNDP SES Assessment and Management GN_rev_July2022.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\UNDP SES Assessment and Management GN_rev_July2022.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/UNDP SES Indigenous Peoples GN_revFeb2022.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\UNDP SES Indigenous Peoples GN_revFeb2022.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/UNDP SES S1 Biodiversity Conservation and Sustainable NRM GN_FINAL_DEC2020-revJun2021.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\UNDP SES S1 Biodiversity Conservation and Sustainable NRM GN_FINAL_DEC2020-revJun2021.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/UNDP SES S2 Climate Change and Disaster Risk GN_18Oct2021.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\UNDP SES S2 Climate Change and Disaster Risk GN_18Oct2021.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/UNDP SES S5 Displacement and Resettlement GN_rev_July2022.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\UNDP SES S5 Displacement and Resettlement GN_rev_July2022.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/UNDP SES Stakeholder Engagement GN_Final_rev_July2022.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\UNDP SES Stakeholder Engagement GN_Final_rev_July2022.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/UNDP SES Supplemental Guidance_Grievance Redress Mechanisms.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\UNDP SES Supplemental Guidance_Grievance Redress Mechanisms.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/UNDP Social and Environmental Screening Procedure_JULY2022_FRENCH.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\UNDP Social and Environmental Screening Procedure_JULY2022_FRENCH.pdf
+Content Type: application/pdf
+
+Uri: https://ses-toolkit.info.undp.org/sites/g/files/zskgke446/files/SES Document Library/Uploaded October 2016/UNDP Social and Environmental Screening Procedure_JULY2022_SPANISH.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\g\files\zskgke446\files\SES Document Library\Uploaded October 2016\UNDP Social and Environmental Screening Procedure_JULY2022_SPANISH.pdf
+Content Type: application/pdf
+
+Uri: https://ses.ddev.site/
+File Name: C:\tools\web\ses.ddev.site\index.htm
+Content Type: text/html
+
+Uri: https://ses.ddev.site/2015-guidance-and-templates
+File Name: C:\tools\web\ses.ddev.site\2015-guidance-and-templates.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/about-us
+File Name: C:\tools\web\ses.ddev.site\about-us.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/access-information
+File Name: C:\tools\web\ses.ddev.site\access-information.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/accountability
+File Name: C:\tools\web\ses.ddev.site\accountability.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/capacity-development
+File Name: C:\tools\web\ses.ddev.site\capacity-development.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/core/assets/vendor/jquery/jquery.min.js?v=4.0.0
+File Name: C:\tools\web\ses.ddev.site\core\assets\vendor\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://ses.ddev.site/gender-equality-womens-empowerment
+File Name: C:\tools\web\ses.ddev.site\gender-equality-womens-empowerment.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/guidance-and-templates
+File Name: C:\tools\web\ses.ddev.site\guidance-and-templates.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/human-rights
+File Name: C:\tools\web\ses.ddev.site\human-rights.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/leave-no-one-behind
+File Name: C:\tools\web\ses.ddev.site\leave-no-one-behind.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/libraries/undp--design-system-assets/images/chevron-down-white.svg
+File Name: C:\tools\web\ses.ddev.site\libraries\undp--design-system-assets\images\chevron-down-white.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/libraries/undp--design-system-assets/images/chevron-down.svg
+File Name: C:\tools\web\ses.ddev.site\libraries\undp--design-system-assets\images\chevron-down.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/libraries/undp--design-system-assets/images/chevron-left-circle.svg
+File Name: C:\tools\web\ses.ddev.site\libraries\undp--design-system-assets\images\chevron-left-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/libraries/undp--design-system-assets/images/chevron-right-circle.svg
+File Name: C:\tools\web\ses.ddev.site\libraries\undp--design-system-assets\images\chevron-right-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/libraries/undp--design-system-assets/images/external-default.svg
+File Name: C:\tools\web\ses.ddev.site\libraries\undp--design-system-assets\images\external-default.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/libraries/undp--design-system-assets/images/globe.svg
+File Name: C:\tools\web\ses.ddev.site\libraries\undp--design-system-assets\images\globe.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/libraries/undp--design-system-assets/images/search-black.svg
+File Name: C:\tools\web\ses.ddev.site\libraries\undp--design-system-assets\images\search-black.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/libraries/undp--design-system-assets/images/search-white.svg
+File Name: C:\tools\web\ses.ddev.site\libraries\undp--design-system-assets\images\search-white.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/libraries/undp--design-system-assets/images/search.svg
+File Name: C:\tools\web\ses.ddev.site\libraries\undp--design-system-assets\images\search.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/libraries/undp--design-system-assets/images/times.svg
+File Name: C:\tools\web\ses.ddev.site\libraries\undp--design-system-assets\images\times.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/modules/contrib/ai/assets/icons/arrow-left-up.svg
+File Name: C:\tools\web\ses.ddev.site\modules\contrib\ai\assets\icons\arrow-left-up.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/modules/contrib/ai/assets/icons/checkmark-circle.svg
+File Name: C:\tools\web\ses.ddev.site\modules\contrib\ai\assets\icons\checkmark-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/modules/contrib/ai/assets/icons/cloud-arrow-down.svg
+File Name: C:\tools\web\ses.ddev.site\modules\contrib\ai\assets\icons\cloud-arrow-down.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/modules/contrib/ai/assets/icons/cube.svg
+File Name: C:\tools\web\ses.ddev.site\modules\contrib\ai\assets\icons\cube.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/modules/contrib/ai/assets/icons/external.svg
+File Name: C:\tools\web\ses.ddev.site\modules\contrib\ai\assets\icons\external.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/modules/contrib/ai/assets/icons/file.svg
+File Name: C:\tools\web\ses.ddev.site\modules\contrib\ai\assets\icons\file.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/modules/contrib/ai/assets/icons/gear.svg
+File Name: C:\tools\web\ses.ddev.site\modules\contrib\ai\assets\icons\gear.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/modules/contrib/ai/assets/icons/option.svg
+File Name: C:\tools\web\ses.ddev.site\modules\contrib\ai\assets\icons\option.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/modules/contrib/ai/assets/icons/plugs.svg
+File Name: C:\tools\web\ses.ddev.site\modules\contrib\ai\assets\icons\plugs.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/modules/contrib/ai/assets/icons/thumbs-down.svg
+File Name: C:\tools\web\ses.ddev.site\modules\contrib\ai\assets\icons\thumbs-down.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/modules/contrib/ai/assets/icons/thumbs-up.svg
+File Name: C:\tools\web\ses.ddev.site\modules\contrib\ai\assets\icons\thumbs-up.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/modules/contrib/ai/assets/icons/trash.svg
+File Name: C:\tools\web\ses.ddev.site\modules\contrib\ai\assets\icons\trash.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/modules/contrib/ai/assets/icons/warning.svg
+File Name: C:\tools\web\ses.ddev.site\modules\contrib\ai\assets\icons\warning.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/modules/contrib/ai/assets/icons/x-circle.svg
+File Name: C:\tools\web\ses.ddev.site\modules\contrib\ai\assets\icons\x-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/monitoring-reporting-and-compliance
+File Name: C:\tools\web\ses.ddev.site\monitoring-reporting-and-compliance.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/our-team
+File Name: C:\tools\web\ses.ddev.site\our-team.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/outreach-and-communications
+File Name: C:\tools\web\ses.ddev.site\outreach-and-communications.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/policy-delivery
+File Name: C:\tools\web\ses.ddev.site\policy-delivery.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/procedures-and-accountability
+File Name: C:\tools\web\ses.ddev.site\procedures-and-accountability.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/programming-principles
+File Name: C:\tools\web\ses.ddev.site\programming-principles.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/programming-quality-assurance-and-risk-management
+File Name: C:\tools\web\ses.ddev.site\programming-quality-assurance-and-risk-management-1.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/programming-quality-assurance-and-risk-management?WikiPageMode=Edit&InitialTabId=Ribbon.EditingTools.CPEditTab&VisibilityContext=WSSWikiPage
+File Name: C:\tools\web\ses.ddev.site\programming-quality-assurance-and-risk-management.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/project-level-standards
+File Name: C:\tools\web\ses.ddev.site\project-level-standards.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/resources-and-case-examples
+File Name: C:\tools\web\ses.ddev.site\resources-and-case-examples.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/response-mechanisms
+File Name: C:\tools\web\ses.ddev.site\response-mechanisms.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/sites/default/files/2023-02/undp-logo-blue.svg
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\2023-02\undp-logo-blue.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/sites/default/files/2023-02/undp-logo-white.svg
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\2023-02\undp-logo-white.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/sites/default/files/Chevron-down_0.svg
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\Chevron-down_0.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/sites/default/files/css/css_0ZQUOXCuA8zXUba8RTwWlu496JunQblcj4lelT0Fupo.css?delta=0&language=en&theme=undpglobal&include=eJx9kGtuwzAMgy-Uznt0xXYaQXZYR5gfgeW2y-3rOsCAbF3_EdRnEiaLYSEfsuUwuDxBJSfTxK5OiNhY5E5acyStSwC9718ODnh-gFgc2dq3wwPkyB_71_GTtwhC606VXE6VJaHcP18Wlcvit8cCnXNSOYN8kXFz7KKlxkb0_LmSR8sX90_XvRcze9CEkn9I6mOZdcbd7WeS_KDZCQeKGIWpOV9q_lpP6866aEU0lhXDKY0zaQ6FFFzcZFaja6383YG161flFcCztZ8
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\css\css_0ZQUOXCuA8zXUba8RTwWlu496JunQblcj4lelT0Fupo.css
+Content Type: text/css
+
+Uri: https://ses.ddev.site/sites/default/files/css/css_eDk-PeIng5aa1_mP57SDmibb6hSWNxHhwuwT4Q0AFp4.css?delta=0&language=en&theme=undpglobal&include=eJyFkWFugzAMhS9El3ZjFZzGMomBaEkcxaEdt28AqRNbxf5Zz5_fS2y0Ci0Mjjt0leaRxHJQpTjlkTztJNCTZPYgeXYEH0jYa9MfIJ_15aqJzgdI156b9mK6A4T6prvq-gjpsanfTYt7hFz5QcigOWS0gdLr9n0We5-HfTORRA5ibwRDsmbXXIvi6gux-sclw00-_Itti4aRPUUcCEZK_HIo5GUkk48OMwnoHCBHBw5nnooXhhvKsw8_r4f1bmoLOi3rsWGohLUtuZ6MRSjKl6i_0tt2cpml-KoOhaopmAjCLoEQJj2qTVhryfi9AlvWr8gHO4_siw
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\css\css_eDk-PeIng5aa1_mP57SDmibb6hSWNxHhwuwT4Q0AFp4.css
+Content Type: text/css
+
+Uri: https://ses.ddev.site/sites/default/files/css/css_FNcbR05TmT0qjD8btyYcLv7jFs04ymhWDupEVJIvtco.css?delta=4&language=en&theme=undpglobal&include=eJx9kGtuwzAMgy-Uznt0xXYaQXZYR5gfgeW2y-3rOsCAbF3_EdRnEiaLYSEfsuUwuDxBJSfTxK5OiNhY5E5acyStSwC9718ODnh-gFgc2dq3wwPkyB_71_GTtwhC606VXE6VJaHcP18Wlcvit8cCnXNSOYN8kXFz7KKlxkb0_LmSR8sX90_XvRcze9CEkn9I6mOZdcbd7WeS_KDZCQeKGIWpOV9q_lpP6866aEU0lhXDKY0zaQ6FFFzcZFaja6383YG161flFcCztZ8
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\css\css_FNcbR05TmT0qjD8btyYcLv7jFs04ymhWDupEVJIvtco-3.css
+Content Type: text/css
+
+Uri: https://ses.ddev.site/sites/default/files/css/css_FNcbR05TmT0qjD8btyYcLv7jFs04ymhWDupEVJIvtco.css?delta=4&language=en&theme=undpglobal&include=eJx9kWtOwzAQhC-UYh6lgtOs1s7UWeFH5HVbcnuMIyEFQv-NZj5rvLsshoV8yJbD4PIElZxME4c6IWJjkbtozZG0LgH0enw6OeDxDmJxZmtfTneQM78dn8d33iIIrTtVcjlVloSyHwdJH_vJbVG5LX4bFuick8oV5IuMm7CL1hcb0ZvnSh6tWdw_v9h7MbMHTSj5h6S-RrMu-PA9syQ_aHbCgSJG4T6Fmr_Ww3oBXbQiGsuK4ZLGmTSHQgoubjKr0bVW_uzA2vWr8guY97_i
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\css\css_FNcbR05TmT0qjD8btyYcLv7jFs04ymhWDupEVJIvtco-4.css
+Content Type: text/css
+
+Uri: https://ses.ddev.site/sites/default/files/css/css_FNcbR05TmT0qjD8btyYcLv7jFs04ymhWDupEVJIvtco.css?delta=4&language=en&theme=undpglobal&include=eJyFkv1uwyAMxF8oHd3WVcvTWAYcYo2PCNN1eftRIlVKl6X_WXc_dAcGWSGD80mj70waSThFVYdDGSnQSgJzkZICSJk9wbEfEAfd7yAfp9ezITruIJoG1Pr9vIMM-Hl6sz2uEfK1XiyAxqRsqwoFtYBJsSBHytv0E9tz_Np2rrPwdXZrM5NMKQp_E7jMdmW2oeaFSrTk6aErcKHw9IijWpbNP8W3TkzoCEbK6U5CW6Valny4PSpH10kyjB4CWcZ2cVF_pZflF8gstazSKNRdop1Aks8ghNmMahHaLAV_GrBkPUT-ArUd9FQ
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\css\css_FNcbR05TmT0qjD8btyYcLv7jFs04ymhWDupEVJIvtco-2.css
+Content Type: text/css
+
+Uri: https://ses.ddev.site/sites/default/files/css/css_FNcbR05TmT0qjD8btyYcLv7jFs04ymhWDupEVJIvtco.css?delta=4&language=en&theme=undpglobal&include=eJyFkWFOwzAMhS_UkQFjoqexnMRNLdK4ijNGb09IJaSO0f17ev5sP9nIBhlCFIuxczKSsiRTxaGMNNHGAnfRIhNoWSLBsR8QB9vvIG-n57MjOu4glga09vW8gwz4fnrxPW4RijVeKoDOSfbVhYJWwUkqyInyffpB-booX5ewLWbSWZLyJ0HI7DfFJurUqRJt_nyTCLjQ9LAlUI3E7p949zpmDAQjZfkloT3MrK88_JyOU-hUHGOEiTwjVOdDzV_raf21LlrDGotK3SX5GVRiBiXMbjSr0bQW_GrAuutm5TeVEeoR
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\css\css_FNcbR05TmT0qjD8btyYcLv7jFs04ymhWDupEVJIvtco-1.css
+Content Type: text/css
+
+Uri: https://ses.ddev.site/sites/default/files/css/css_FNcbR05TmT0qjD8btyYcLv7jFs04ymhWDupEVJIvtco.css?delta=4&language=en&theme=undpglobal&include=eJyFkWFugzAMhS9El3ZjFZzGMomBaEkcxaEdt28AqRNbxf5Zz5_fS2y0Ci0Mjjt0leaRxHJQpTjlkTztJNCTZPYgeXYEH0jYa9MfIJ_15aqJzgdI156b9mK6A4T6prvq-gjpsanfTYt7hFz5QcigOWS0gdLr9n0We5-HfTORRA5ibwRDsmbXXIvi6gux-sclw00-_Itti4aRPUUcCEZK_HIo5GUkk48OMwnoHCBHBw5nnooXhhvKsw8_r4f1bmoLOi3rsWGohLUtuZ6MRSjKl6i_0tt2cpml-KoOhaopmAjCLoEQJj2qTVhryfi9AlvWr8gHO4_siw
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\css\css_FNcbR05TmT0qjD8btyYcLv7jFs04ymhWDupEVJIvtco.css
+Content Type: text/css
+
+Uri: https://ses.ddev.site/sites/default/files/css/css_Gy3unGJPDZ7ieoIRRyF8R3MvreJuL7onhRdVO4Ps17A.css?delta=0&language=en&theme=undpglobal&include=eJyFkv1uwyAMxF8oHd3WVcvTWAYcYo2PCNN1eftRIlVKl6X_WXc_dAcGWSGD80mj70waSThFVYdDGSnQSgJzkZICSJk9wbEfEAfd7yAfp9ezITruIJoG1Pr9vIMM-Hl6sz2uEfK1XiyAxqRsqwoFtYBJsSBHytv0E9tz_Np2rrPwdXZrM5NMKQp_E7jMdmW2oeaFSrTk6aErcKHw9IijWpbNP8W3TkzoCEbK6U5CW6Valny4PSpH10kyjB4CWcZ2cVF_pZflF8gstazSKNRdop1Aks8ghNmMahHaLAV_GrBkPUT-ArUd9FQ
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\css\css_Gy3unGJPDZ7ieoIRRyF8R3MvreJuL7onhRdVO4Ps17A.css
+Content Type: text/css
+
+Uri: https://ses.ddev.site/sites/default/files/css/css_P5jcXwWaB7xYv2XBXSxorHdrAdCnEP8DJWcoBUU7nLQ.css?delta=0&language=en&theme=undpglobal&include=eJyFkWFOwzAMhS_UkQFjoqexnMRNLdK4ijNGb09IJaSO0f17ev5sP9nIBhlCFIuxczKSsiRTxaGMNNHGAnfRIhNoWSLBsR8QB9vvIG-n57MjOu4glga09vW8gwz4fnrxPW4RijVeKoDOSfbVhYJWwUkqyInyffpB-booX5ewLWbSWZLyJ0HI7DfFJurUqRJt_nyTCLjQ9LAlUI3E7p949zpmDAQjZfkloT3MrK88_JyOU-hUHGOEiTwjVOdDzV_raf21LlrDGotK3SX5GVRiBiXMbjSr0bQW_GrAuutm5TeVEeoR
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\css\css_P5jcXwWaB7xYv2XBXSxorHdrAdCnEP8DJWcoBUU7nLQ.css
+Content Type: text/css
+
+Uri: https://ses.ddev.site/sites/default/files/css/css_xjG2nxJxmybJbcFxlRf6eLxfgwsiiGmwX4WQa3_mdfI.css?delta=0&language=en&theme=undpglobal&include=eJx9kWtOwzAQhC-UYh6lgtOs1s7UWeFH5HVbcnuMIyEFQv-NZj5rvLsshoV8yJbD4PIElZxME4c6IWJjkbtozZG0LgH0enw6OeDxDmJxZmtfTneQM78dn8d33iIIrTtVcjlVloSyHwdJH_vJbVG5LX4bFuick8oV5IuMm7CL1hcb0ZvnSh6tWdw_v9h7MbMHTSj5h6S-RrMu-PA9syQ_aHbCgSJG4T6Fmr_Ww3oBXbQiGsuK4ZLGmTSHQgoubjKr0bVW_uzA2vWr8guY97_i
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\css\css_xjG2nxJxmybJbcFxlRf6eLxfgwsiiGmwX4WQa3_mdfI.css
+Content Type: text/css
+
+Uri: https://ses.ddev.site/sites/default/files/js/js_ANwVUVOFbbYwJaLwLWkixtxOzBXdJo1g1T2Zl7-vWKQ.js?scope=footer&delta=5&language=en&theme=undpglobal&include=eJx9jksOgzAMRC9EypEiE1yw6tjIdkSP34hUYsdupHnzAZqB8sa6AE9Fd3RSmZGxokQOrAdDoL-gFLW1eylg8VRUAkjQnjJM8nnyTc_0Vutl3Kr4jY47mWkxMOrkSbLq6cWUeWqyHrk0D63zpTeM3Ktb7gAdMQBXtuwIVvZBDe0B3wsYG_-pNJL-A07Raxo
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\js\js_ANwVUVOFbbYwJaLwLWkixtxOzBXdJo1g1T2Zl7-vWKQ.js
+Content Type: text/javascript
+
+Uri: https://ses.ddev.site/sites/default/files/js/js_DKQwbUnUBoyKbe3xoQS2sN1wtI-Pma0fTWouFUnSrLc.js?scope=footer&delta=1&language=en&theme=undpglobal&include=eJx9jksOgzAMRC9EypEiE1yw6tjIdkSP34hUYsdupHnzAZqB8sa6AE9Fd3RSmZGxokQOrAdDoL-gFLW1eylg8VRUAkjQnjJM8nnyTc_0Vutl3Kr4jY47mWkxMOrkSbLq6cWUeWqyHrk0D63zpTeM3Ktb7gAdMQBXtuwIVvZBDe0B3wsYG_-pNJL-A07Raxo
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\js\js_DKQwbUnUBoyKbe3xoQS2sN1wtI-Pma0fTWouFUnSrLc-1.js
+Content Type: text/javascript
+
+Uri: https://ses.ddev.site/sites/default/files/js/js_DKQwbUnUBoyKbe3xoQS2sN1wtI-Pma0fTWouFUnSrLc.js?scope=footer&delta=1&language=en&theme=undpglobal&include=eJx9zlEOgzAIBuAL6bzHLkFqZUpGoQE6d_w5u2Rvvv0JH_wkmhLByjonHrJu6KQyIWNBCQgslVOg35jkeTU33ceH2piVWxH_034amGZLRl-JXlWcXni_YjvJortnU-ahyVIhNw8t05lXDDg-aHAAqtGBKxs4JstbVz17pPcJesevauyb_gEiB2Yh
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\js\js_DKQwbUnUBoyKbe3xoQS2sN1wtI-Pma0fTWouFUnSrLc.js
+Content Type: text/javascript
+
+Uri: https://ses.ddev.site/sites/default/files/js/js_JS1gCA6vhzRmyF1tkWIzOOKRHXAizWD9LAHIjfIn8wA.js?scope=footer&delta=5&language=en&theme=undpglobal&include=eJx9zlEOgzAIBuAL6bzHLkFqZUpGoQE6d_w5u2Rvvv0JH_wkmhLByjonHrJu6KQyIWNBCQgslVOg35jkeTU33ceH2piVWxH_034amGZLRl-JXlWcXni_YjvJortnU-ahyVIhNw8t05lXDDg-aHAAqtGBKxs4JstbVz17pPcJesevauyb_gEiB2Yh
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\js\js_JS1gCA6vhzRmyF1tkWIzOOKRHXAizWD9LAHIjfIn8wA.js
+Content Type: text/javascript
+
+Uri: https://ses.ddev.site/sites/default/files/js/js_zByZF678CpWFrxGtm2BcI_mviebVPd-pembEjDbAmPg.js?scope=footer&delta=7&language=en&theme=undpglobal&include=eJx9jksOgzAMRC9EypEiE1yw6tjIdkSP34hUYsdupHnzAZqB8sa6AE9Fd3RSmZGxokQOrAdDoL-gFLW1eylg8VRUAkjQnjJM8nnyTc_0Vutl3Kr4jY47mWkxMOrkSbLq6cWUeWqyHrk0D63zpTeM3Ktb7gAdMQBXtuwIVvZBDe0B3wsYG_-pNJL-A07Raxo
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\js\js_zByZF678CpWFrxGtm2BcI_mviebVPd-pembEjDbAmPg-1.js
+Content Type: text/javascript
+
+Uri: https://ses.ddev.site/sites/default/files/js/js_zByZF678CpWFrxGtm2BcI_mviebVPd-pembEjDbAmPg.js?scope=footer&delta=7&language=en&theme=undpglobal&include=eJx9zlEOgzAIBuAL6bzHLkFqZUpGoQE6d_w5u2Rvvv0JH_wkmhLByjonHrJu6KQyIWNBCQgslVOg35jkeTU33ceH2piVWxH_034amGZLRl-JXlWcXni_YjvJortnU-ahyVIhNw8t05lXDDg-aHAAqtGBKxs4JstbVz17pPcJesevauyb_gEiB2Yh
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\js\js_zByZF678CpWFrxGtm2BcI_mviebVPd-pembEjDbAmPg.js
+Content Type: text/javascript
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/12978973813_e51e24c4d6_o_0.jpg?h=3e313f78&itok=ECWtZEVR
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\12978973813_e51e24c4d6_o_0.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/13078019893_0396581de5_o.jpg?h=ac778ff2&itok=RZT2Altg
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\13078019893_0396581de5_o.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/31860052370_298cf340af_o.jpg?h=c6980913&itok=yKVDKekO
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\31860052370_298cf340af_o.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/50056498241_0e417de1d3_o_0.jpg?h=2dc316e5&itok=RkHmjlhu
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\50056498241_0e417de1d3_o_0.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/50595722357_29971092a2_o_0.jpg?h=f52e7eb6&itok=shurxU8q
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\50595722357_29971092a2_o_0.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/Azerbaijan SLFM_AndreaEgan_CarpetWeaving-4743.jpg?h=6e29df75&itok=RO6luSQv
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\Azerbaijan SLFM_AndreaEgan_CarpetWeaving-4743.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-Bangladesh-2012_flooding_bike_13_2.jpg?h=04ec9ced&itok=rvBqqPtA
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-Bangladesh-2012_flooding_bike_13_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-Bangladesh-2020-distribution-COVID19-3213_4.jpg?h=c7100e15&itok=DXiTMMGD
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-Bangladesh-2020-distribution-COVID19-3213_4.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-Bangladesh-2020-distribution-COVID19-3249_4.jpg?h=a60f8f90&itok=pNYaVClT
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-Bangladesh-2020-distribution-COVID19-3249_4.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-Burkina-Faso-2020_Kaya_AGR19.jpg?h=d07d10a6&itok=-1Vg_rk2
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-Burkina-Faso-2020_Kaya_AGR19.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-Burkina-Faso-2020_Profejec_Organic_Farm20.jpg?h=d07d10a6&itok=nuybZ8aN
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-Burkina-Faso-2020_Profejec_Organic_Farm20.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-Cameroon-2020-youth-peace-7898.jpg?h=ec3c661f&itok=kfogmcgu
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-Cameroon-2020-youth-peace-7898.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-executive-board-jan-2019__0800_39975946183_o.jpg?h=26069ce8&itok=hsbE_CLy
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-executive-board-jan-2019__0800_39975946183_o.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-Guatemala-2017_woman_smile_3_2.jpg?h=b25dbdb8&itok=RtFw3C9l
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-Guatemala-2017_woman_smile_3_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-India-2014_sea-turtle_biodiversity_14381199285_o_2.jpg?h=48e99a52&itok=Pb4BkL9s
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-India-2014_sea-turtle_biodiversity_14381199285_o_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-IQ-cash-for-work-Mosul-9802.jpg?h=b1aca51b&itok=JARKaWCR
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-IQ-cash-for-work-Mosul-9802.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-Kyrgyzstan-2020-COVID19-impact-tourism-0919_2.jpg?h=44c21116&itok=QXeOv2x0
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-Kyrgyzstan-2020-COVID19-impact-tourism-0919_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-Lebanon-2018-NL_Funded_02.jpg?h=26069ce8&itok=MiaSrl3E
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-Lebanon-2018-NL_Funded_02.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-Lebanon-2018-UNDP_ILO_EIIP_02.jpg?h=c36bd005&itok=MiKiabyS
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-Lebanon-2018-UNDP_ILO_EIIP_02.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-Madagascar_2013_diving_fishermen_exhibition_3_3.jpg?h=714bd06f&itok=-eaSx_gJ
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-Madagascar_2013_diving_fishermen_exhibition_3_3.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-Niue-2016_coral_conservation_32540194650_2 (1).jpg?h=ac778ff2&itok=wo3Rqptj
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-Niue-2016_coral_conservation_32540194650_2 (1).jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/undp-nyc-2020-executive-board-0390_49494294397_o_2.jpg?h=ae1afc61&itok=n9fN-unq
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\undp-nyc-2020-executive-board-0390_49494294397_o_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-PE-indigenous-peoples-Amazon-forest-Goal13-Goal2-17_4.jpg?h=b68a5976&itok=aMqFqAEU
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-PE-indigenous-peoples-Amazon-forest-Goal13-Goal2-17_4.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-Peru-2018_rural_solar_13_3.jpg?h=d07d10a6&itok=WxA4gmAL
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-Peru-2018_rural_solar_13_3.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-Peru-2019_solar_lake_03.jpg?h=f0b48c1d&itok=m6ZZyPve
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-Peru-2019_solar_lake_03.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-Uganda-2017-drone-resilience-refugees_1320.jpg?h=ddb1ad0c&itok=j56Up8cX
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-Uganda-2017-drone-resilience-refugees_1320.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-Uganda-2018_Greenhouse_Singles_01_0.jpg?h=334259a1&itok=ssZpigtG
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-Uganda-2018_Greenhouse_Singles_01_0.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-Yemen-2020-solar-panels-COVID19-3837_4.jpg?h=37b2246f&itok=DoRENRk0
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-Yemen-2020-solar-panels-COVID19-3837_4.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-Zimbabwe-SDG3-solar-health-2331_2.jpg?h=d07d10a6&itok=Hyh23LY2
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-Zimbabwe-SDG3-solar-health-2331_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-Zimbabwe-SDG3-solar-health-2349_3.jpg?h=d07d10a6&itok=d2c6CgXr
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-Zimbabwe-SDG3-solar-health-2349_3.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/full_hero_1392x940/public/2023-03/UNDP-ZMB-SDG3-solar-health-0237-2_3.jpg?h=f2fcf546&itok=cbh0bgks
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\full_hero_1392x940\public\2023-03\UNDP-ZMB-SDG3-solar-health-0237-2_3.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/12978973813_e51e24c4d6_o_0.jpg?h=3e313f78&itok=X_gz9Ccg
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\12978973813_e51e24c4d6_o_0.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/13078019893_0396581de5_o.jpg?h=ac778ff2&itok=GGi2CREQ
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\13078019893_0396581de5_o.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/31860052370_298cf340af_o.jpg?h=c6980913&itok=er7TAE4B
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\31860052370_298cf340af_o.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/50056498241_0e417de1d3_o_0.jpg?h=2dc316e5&itok=rvmCeCar
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\50056498241_0e417de1d3_o_0.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/50595722357_29971092a2_o_0.jpg?h=f52e7eb6&itok=IZ6QvsZN
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\50595722357_29971092a2_o_0.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/Azerbaijan SLFM_AndreaEgan_CarpetWeaving-4743.jpg?h=6e29df75&itok=R56BeYsm
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\Azerbaijan SLFM_AndreaEgan_CarpetWeaving-4743.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-Bangladesh-2012_flooding_bike_13_2.jpg?h=04ec9ced&itok=gMZ19-Zk
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-Bangladesh-2012_flooding_bike_13_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-Bangladesh-2020-distribution-COVID19-3213_4.jpg?h=c7100e15&itok=e4CXqLQH
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-Bangladesh-2020-distribution-COVID19-3213_4.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-Bangladesh-2020-distribution-COVID19-3249_4.jpg?h=a60f8f90&itok=DYGTWd6k
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-Bangladesh-2020-distribution-COVID19-3249_4.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-Burkina-Faso-2020_Kaya_AGR19.jpg?h=d07d10a6&itok=GoVYPmGD
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-Burkina-Faso-2020_Kaya_AGR19.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-Burkina-Faso-2020_Profejec_Organic_Farm20.jpg?h=d07d10a6&itok=KT7f5vuO
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-Burkina-Faso-2020_Profejec_Organic_Farm20.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-Cameroon-2020-youth-peace-7898.jpg?h=ec3c661f&itok=h3zRLZWC
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-Cameroon-2020-youth-peace-7898.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-executive-board-jan-2019__0800_39975946183_o.jpg?h=26069ce8&itok=cmyLjm8o
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-executive-board-jan-2019__0800_39975946183_o.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-Guatemala-2017_woman_smile_3_2.jpg?h=b25dbdb8&itok=JPunGrid
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-Guatemala-2017_woman_smile_3_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-India-2014_sea-turtle_biodiversity_14381199285_o_2.jpg?h=48e99a52&itok=ezF2PGBo
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-India-2014_sea-turtle_biodiversity_14381199285_o_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-IQ-cash-for-work-Mosul-9802.jpg?h=b1aca51b&itok=SQ6r6I9A
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-IQ-cash-for-work-Mosul-9802.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-Kyrgyzstan-2020-COVID19-impact-tourism-0919_2.jpg?h=44c21116&itok=TEqFr_cZ
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-Kyrgyzstan-2020-COVID19-impact-tourism-0919_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-Lebanon-2018-NL_Funded_02.jpg?h=26069ce8&itok=4XUS5Yrp
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-Lebanon-2018-NL_Funded_02.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-Lebanon-2018-UNDP_ILO_EIIP_02.jpg?h=c36bd005&itok=ulZtdXJH
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-Lebanon-2018-UNDP_ILO_EIIP_02.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-Madagascar_2013_diving_fishermen_exhibition_3_3.jpg?h=714bd06f&itok=QRnN3-1R
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-Madagascar_2013_diving_fishermen_exhibition_3_3.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-Niue-2016_coral_conservation_32540194650_2 (1).jpg?h=ac778ff2&itok=Qd-AD7vR
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-Niue-2016_coral_conservation_32540194650_2 (1).jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/undp-nyc-2020-executive-board-0390_49494294397_o_2.jpg?h=ae1afc61&itok=lHt7bNmL
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\undp-nyc-2020-executive-board-0390_49494294397_o_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-PE-indigenous-peoples-Amazon-forest-Goal13-Goal2-17_4.jpg?h=b68a5976&itok=-tK_gKkt
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-PE-indigenous-peoples-Amazon-forest-Goal13-Goal2-17_4.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-Peru-2018_rural_solar_13_3.jpg?h=d07d10a6&itok=neMMKqjz
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-Peru-2018_rural_solar_13_3.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-Peru-2019_solar_lake_03.jpg?h=f0b48c1d&itok=nV2DGKI0
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-Peru-2019_solar_lake_03.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-Uganda-2017-drone-resilience-refugees_1320.jpg?h=ddb1ad0c&itok=F4dC042D
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-Uganda-2017-drone-resilience-refugees_1320.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-Uganda-2018_Greenhouse_Singles_01_0.jpg?h=334259a1&itok=PH0mWJ3m
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-Uganda-2018_Greenhouse_Singles_01_0.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-Yemen-2020-solar-panels-COVID19-3837_4.jpg?h=37b2246f&itok=B4pZfOZo
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-Yemen-2020-solar-panels-COVID19-3837_4.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-Zimbabwe-SDG3-solar-health-2331_2.jpg?h=d07d10a6&itok=Y2Hujo-s
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-Zimbabwe-SDG3-solar-health-2331_2.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-Zimbabwe-SDG3-solar-health-2349_3.jpg?h=d07d10a6&itok=PvBO4cYz
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-Zimbabwe-SDG3-solar-health-2349_3.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/sites/default/files/styles/page_hero_full_mobile/public/2023-03/UNDP-ZMB-SDG3-solar-health-0237-2_3.jpg?h=f2fcf546&itok=Xmo86Qeo
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\styles\page_hero_full_mobile\public\2023-03\UNDP-ZMB-SDG3-solar-health-0237-2_3.jpg
+Content Type: image/jpeg
+
+Uri: https://ses.ddev.site/stakeholder-engagement-and-response-mechanisms
+File Name: C:\tools\web\ses.ddev.site\stakeholder-engagement-and-response-mechanisms.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/standard-1
+File Name: C:\tools\web\ses.ddev.site\standard-1.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/standard-2
+File Name: C:\tools\web\ses.ddev.site\standard-2.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/standard-3
+File Name: C:\tools\web\ses.ddev.site\standard-3.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/standard-4
+File Name: C:\tools\web\ses.ddev.site\standard-4.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/standard-5
+File Name: C:\tools\web\ses.ddev.site\standard-5.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/standard-6
+File Name: C:\tools\web\ses.ddev.site\standard-6.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/standard-7
+File Name: C:\tools\web\ses.ddev.site\standard-7.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/standard-8
+File Name: C:\tools\web\ses.ddev.site\standard-8.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/sustainability-and-resilience
+File Name: C:\tools\web\ses.ddev.site\sustainability-and-resilience.html
+Content Type: text/html
+
+Uri: https://ses.ddev.site/themes/custom/undpglobal/assets/images/language-black.svg
+File Name: C:\tools\web\ses.ddev.site\themes\custom\undpglobal\assets\images\language-black.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/themes/custom/undpglobal/favicon.ico
+File Name: C:\tools\web\ses.ddev.site\themes\custom\undpglobal\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://ses.ddev.site/themes/custom/undpglobal/images/aparat.svg
+File Name: C:\tools\web\ses.ddev.site\themes\custom\undpglobal\images\aparat.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/themes/custom/undpglobal/images/btn-arrow-red.svg
+File Name: C:\tools\web\ses.ddev.site\themes\custom\undpglobal\images\btn-arrow-red.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/themes/custom/undpglobal/images/exposure.svg
+File Name: C:\tools\web\ses.ddev.site\themes\custom\undpglobal\images\exposure.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/themes/custom/undpglobal/images/flickr.svg
+File Name: C:\tools\web\ses.ddev.site\themes\custom\undpglobal\images\flickr.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/themes/custom/undpglobal/images/icon-arrow-down-red.svg
+File Name: C:\tools\web\ses.ddev.site\themes\custom\undpglobal\images\icon-arrow-down-red.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/themes/custom/undpglobal/images/icon-close.svg
+File Name: C:\tools\web\ses.ddev.site\themes\custom\undpglobal\images\icon-close.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/themes/custom/undpglobal/images/icon-search.svg
+File Name: C:\tools\web\ses.ddev.site\themes\custom\undpglobal\images\icon-search.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/themes/custom/undpglobal/images/magic-button.svg
+File Name: C:\tools\web\ses.ddev.site\themes\custom\undpglobal\images\magic-button.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/themes/custom/undpglobal/images/medium.svg
+File Name: C:\tools\web\ses.ddev.site\themes\custom\undpglobal\images\medium.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/themes/custom/undpglobal/images/odnoklassniki.svg
+File Name: C:\tools\web\ses.ddev.site\themes\custom\undpglobal\images\odnoklassniki.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/themes/custom/undpglobal/images/pinterest.svg
+File Name: C:\tools\web\ses.ddev.site\themes\custom\undpglobal\images\pinterest.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/themes/custom/undpglobal/images/snapchat.svg
+File Name: C:\tools\web\ses.ddev.site\themes\custom\undpglobal\images\snapchat.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/themes/custom/undpglobal/images/soundcloud.svg
+File Name: C:\tools\web\ses.ddev.site\themes\custom\undpglobal\images\soundcloud.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/themes/custom/undpglobal/images/telegram.svg
+File Name: C:\tools\web\ses.ddev.site\themes\custom\undpglobal\images\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/themes/custom/undpglobal/images/tiktok.svg
+File Name: C:\tools\web\ses.ddev.site\themes\custom\undpglobal\images\tiktok.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/themes/custom/undpglobal/images/twitter-x.svg
+File Name: C:\tools\web\ses.ddev.site\themes\custom\undpglobal\images\twitter-x.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/themes/custom/undpglobal/images/vk.svg
+File Name: C:\tools\web\ses.ddev.site\themes\custom\undpglobal\images\vk.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/themes/custom/undpglobal/images/wechat.svg
+File Name: C:\tools\web\ses.ddev.site\themes\custom\undpglobal\images\wechat.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/themes/custom/undpglobal/images/weibo.svg
+File Name: C:\tools\web\ses.ddev.site\themes\custom\undpglobal\images\weibo.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/themes/custom/undpglobal/images/whatsapp.svg
+File Name: C:\tools\web\ses.ddev.site\themes\custom\undpglobal\images\whatsapp.svg
+Content Type: image/svg+xml
+
+Uri: https://ses.ddev.site/webinars
+File Name: C:\tools\web\ses.ddev.site\webinars.html
+Content Type: text/html
+
+Uri: https://unfccc.int/resource/docs/2013/cop19/eng/10a03.pdf
+File Name: C:\tools\web\ses.ddev.site\resource\docs\2013\cop19\eng\10a03.pdf
+Content Type: application/pdf
+
+Uri: https://www.cbd.int/doc/c/3f7a/4589/5cc1b7058bf52427fa9bae84/sbstta-22-inf-01-en.pdf
+File Name: C:\tools\web\ses.ddev.site\doc\c\3f7a\4589\5cc1b7058bf52427fa9bae84\sbstta-22-inf-01-en.pdf
+Content Type: application/pdf
+
+Uri: https://www.cbd.int/doc/decisions/cop-06-dec-23-en.pdf
+File Name: C:\tools\web\ses.ddev.site\doc\decisions\cop-06-dec-23-en.pdf
+Content Type: application/pdf
+
+Uri: https://www.cbd.int/doc/publications/cbd-bonn-gdls-en.pdf
+File Name: C:\tools\web\ses.ddev.site\doc\publications\cbd-bonn-gdls-en.pdf
+Content Type: application/pdf
+
+Uri: https://www.cbd.int/doc/publications/cbd-ts-26-en.pdf
+File Name: C:\tools\web\ses.ddev.site\doc\publications\cbd-ts-26-en.pdf
+Content Type: application/pdf
+
+Uri: https://www.cbd.int/sbstta/sbstta-22-sbi-2/EbA-Eco-DRR-Guidelines-en.pdf
+File Name: C:\tools\web\ses.ddev.site\sbstta\sbstta-22-sbi-2\EbA-Eco-DRR-Guidelines-en.pdf
+Content Type: application/pdf
+
+Uri: https://www.ebrd.com/downloads/about/sustainability/Workers_accomodation.pdf
+File Name: C:\tools\web\ses.ddev.site\downloads\about\sustainability\Workers_accomodation.pdf
+Content Type: application/pdf
+
+Uri: https://www.fao.org/fileadmin/templates/agphome/documents/Pests_Pesticides/Code/CODE_2014Sep_ENG.pdf
+File Name: C:\tools\web\ses.ddev.site\fileadmin\templates\agphome\documents\Pests_Pesticides\Code\CODE_2014Sep_ENG.pdf
+Content Type: application/pdf
+
+Uri: https://www.fao.org/fileadmin/user_upload/partnerships/docs/00000_FPIC_Toolkit_Technical_Guide_FPIC-VGGT-IPs_EN.pdf
+File Name: C:\tools\web\ses.ddev.site\fileadmin\user_upload\partnerships\docs\00000_FPIC_Toolkit_Technical_Guide_FPIC-VGGT-IPs_EN.pdf
+Content Type: application/pdf
+
+Uri: https://www.iccrom.org/sites/default/files/2018-07/icomos_guidance_on_heritage_impact_assessments_for_cultural_world_heritage_properties.pdf
+File Name: C:\tools\web\ses.ddev.site\sites\default\files\2018-07\icomos_guidance_on_heritage_impact_assessments_for_cultural_world_heritage_properties.pdf
+Content Type: application/pdf
+
+Uri: https://www.un.org/esa/socdev/unpfii/documents/resource_kit_indigenous_2008.pdf
+File Name: C:\tools\web\ses.ddev.site\esa\socdev\unpfii\documents\resource_kit_indigenous_2008.pdf
+Content Type: application/pdf
+
+Uri: https://www.un.org/preventing-sexual-exploitation-and-abuse/sites/www.un.org.preventing-sexual-exploitation-and-abuse/files/un_protocol_on_sea_allegations_involving_implementing_partners_en.pdf
+File Name: C:\tools\web\ses.ddev.site\preventing-sexual-exploitation-and-abuse\sites\www.un.org.preventing-sexual-exploitation-and-abuse\files\un_protocol_on_sea_allegations_involving_implementing_partners_en.pdf
+Content Type: application/pdf
+
+Uri: https://www.unisdr.org/files/13226_MainstreamingDRRinenvironmentalasse.pdf
+File Name: C:\tools\web\ses.ddev.site\files\13226_MainstreamingDRRinenvironmentalasse.pdf
+Content Type: application/pdf
+
+Uri: https://www.unisdr.org/files/53213_bbb.pdf
+File Name: C:\tools\web\ses.ddev.site\files\53213_bbb.pdf
+Content Type: application/pdf
+
